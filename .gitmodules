@@ -1,6 +1,6 @@
 [submodule "row-multiple/pcb/eurorack-eurocad"]
 	path = row-multiple/pcb/eurorack-eurocad
-	url = https://github.com/rhinocerose/eurorack-eurocad
+	url = git@git-rhino:rhinocerose/eurorack-eurocad
 [submodule "row-buffered-multiple/pcb/eurorack-eurocad"]
 	path = row-buffered-multiple/pcb/eurorack-eurocad
-	url = https://github.com/rhinocerose/eurorack-eurocad
+	url = git@git-rhino:rhinocerose/eurorack-eurocad
